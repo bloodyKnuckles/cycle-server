@@ -1,0 +1,25 @@
+{
+  "name": "cycle-server",
+  "version": "0.0.1",
+  "description": "Cycle.js Node HTTP server driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodyKnuckles/cycle-server.git"
+  },
+  "keywords": [
+    "cyclejs",
+    "node",
+    "http",
+    "server"
+  ],
+  "author": "Jay Scott ANDERSON",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/bloodyKnuckles/cycle-server/issues"
+  },
+  "homepage": "https://github.com/bloodyKnuckles/cycle-server#readme"
+}
